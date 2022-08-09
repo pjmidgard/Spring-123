@@ -43,7 +43,7 @@ class compression:
                     if name[long-4:long]==".doc":
                     	Deep_long=999999999999999999
                     	Deep_long_All=0
-                    	block_size_long=31
+                    	block_size_long=63
                     	Times_compression=1
                     	Doc=1
                     elif name[long-4:long]!=".doc":
@@ -481,7 +481,7 @@ class compression:
                     if nameas[long-4:long]==".doc":
                     	Deep_long=999999999999999999
                     	Deep_long_All=0
-                    	block_size_long=31
+                    	block_size_long=63
                     	Times_compression=1
                     	Doc=1
                     elif nameas[long-4:long]!=".doc":
