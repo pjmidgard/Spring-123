@@ -198,8 +198,8 @@ class compression:
                                 predict=-1
                                 
                                 long_block=16
-                                Find=1
-                                Left_Right=0
+                               
+                               
                                 
                                 
                                 times_of_times=0
@@ -233,7 +233,7 @@ class compression:
                                     block_compression2=0
                                     
                                     start=-1
-                                    Left_Right=0
+                                    
                                     Find_guess=0
                                     while Find_guess!=1:
                                         
