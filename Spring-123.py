@@ -21,7 +21,7 @@ class compression:
                     else:
                             print('Path is not exists!')
                             raise SystemExit
-                    Deep=100
+                   
                     long_block=100
                         
                     namea="file.W"
@@ -272,12 +272,12 @@ class compression:
                                                         
                                                     
                                                     
-                                                    Find=1
+                                                   
 
-                                                    Left_Right=Left_Right+1
+                                                    
 
-                                                    if Left_Right==2:
-                                                        Left_Right=1
+                                                   
+  
                                                     
                                                     long=len(size_data3)
                                                     #print(long)
@@ -472,7 +472,7 @@ class compression:
                     nameas=name[:name_long-name_cut]
                     nac=len(nameas)
                     
-                    Deep=1000
+                  
                     
                     long=len(nameas)
 
